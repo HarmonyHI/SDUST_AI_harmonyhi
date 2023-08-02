@@ -17,11 +17,11 @@ arr{5}.C = 'ismd';
 arr{5}.T=q;
 
 sum=1;
-disp('ans£º')
+disp('ansÂ£Âº')
 while(1)
     sum=sum+1;
     if op(arr,'smaller')&&op(arr,'isgrand')
-        disp('ÎÞ');
+        disp('ÃŽÃž');
         break
     end
     if op(arr,'smaller')
