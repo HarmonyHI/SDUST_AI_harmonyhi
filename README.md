@@ -1,0 +1,2 @@
+# SDUST_AI_harmonyhi
+山东科技大学2020级人工智能实验
